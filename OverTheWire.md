@@ -109,8 +109,11 @@
 -strings data.txt | grep "=="
 
 4========== the#
+
 ========== password
+
 ========== is
+
 ========== G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 
 ---Level 10---
@@ -144,33 +147,61 @@
 -bandit12@bandit.labs.overthewire.org's password: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
 -ls
+
 -mkdir /tmp/fabiano
+
 -cd /tmp/fabiano
+
 -cp ~/data.txt .
+
 -ls
+
 -cat data.txt
+
 -xxd -r data.txt > data.gz
+
 -file data.gz
+
 -gzip -d data.gz
+
 -ls
+
 -file data
+
 -bzip2 -d data
+
 -ls
+
 -file data.out
+
 -mv data.out data4.gz
+
 -gzip -d data4.gz
+
 -ls
+
 -file data4
+
 -tar xvf data4
+
 -file data5.bin
+
 -tar xfv data5.bin
+
 -file data6.bin
+
 -bzip2 -d data6.bin
+
 -tar xfv data6.bin.out
+
 -file data8.bin
+
 -mv data8.bin data8.gz
+
 -gzip -d data8.gz
+
 -file data8
+
 -cat data8 The password is: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
 ---Level 13---
