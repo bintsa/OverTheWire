@@ -78,7 +78,7 @@
 ---Level 11---
 -ssh bandit11@bandit.labs.overthewire.org -p 2220
 -bandit11@bandit.labs.overthewire.org's password: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
--cat data.txt | tr ‘A-Za-z’ ‘N-ZA-Mn-za-m’
+-cat data.txt | tr â€˜A-Za-zâ€™ â€˜N-ZA-Mn-za-mâ€™
 -The password is JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
 ---Level 12---
@@ -134,8 +134,4 @@
 -jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 -Correct!
 -JQttfApK4SeyHwDlI9SXGR50qclOAil1
-
-Level 16---
--ssh bandit16@bandit.labs.overthewire.org -p 2220
--bandit16@bandit.labs.overthewire.org's password: JQttfApK4SeyHwDlI9SXGR50qclOAil1
 
