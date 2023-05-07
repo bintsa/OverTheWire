@@ -1,12 +1,9 @@
 # OverTheWire
 #---Level 0---
-ssh bandit0@bandit.labs.overthewire.org -p 2220
-
-bandit0@bandit.labs.overthewire.org's password: 'bandit0'
-
-ls : readme 
-
-cat readme : NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+ ssh bandit0@bandit.labs.overthewire.org -p 2220
+ bandit0@bandit.labs.overthewire.org's password: 'bandit0'
+ ls : readme 
+ cat readme : NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
 ---Level 1--- 
 -ssh bandit1@bandit.labs.overthewire.org -p 2220
